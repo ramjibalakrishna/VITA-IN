@@ -1,0 +1,6 @@
+{
+  "name": "VITA-IN",
+  "description": "Indian Vitamin B12 & D Deficiency Calculator, Solar Synthesis Tracker, and Bioavailable Meal Planner",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
